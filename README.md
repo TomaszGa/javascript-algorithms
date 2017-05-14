@@ -1,0 +1,1 @@
+Repository to hold all practice Javascript algorithms I write, including Free Code Camp challenge algorithms, codewars algorithms, project euler algorithms etc. 
