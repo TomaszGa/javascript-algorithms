@@ -8,4 +8,5 @@ Detailed descriptions of each algorithm can be found in their files.
 
 ### Codewars:
 
-1. [longest-palindrome](https://github.com/TomaszGa/javascript-algorithms/blob/master/codewars/longest.palindrome.js)
+1. [longest-palindrome](https://github.com/TomaszGa/javascript-algorithms/blob/master/codewars/longest-palindrome.js)
+2. [Product of consecutive Fib numbers](https://github.com/TomaszGa/javascript-algorithms/blob/master/codewars/Product%20of%20consecutive%20Fib%20numbers.js)
